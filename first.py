@@ -3,3 +3,5 @@ b = 30
 c = a + b 
 print(c)
 print ( " Demo for Git Hub")
+print("This is second line added")
+print("This is third line added")
